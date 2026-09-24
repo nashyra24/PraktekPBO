@@ -1,4 +1,4 @@
-package Praktikum03;
+package Enkapsulasi;
 
 public class User {
     public String username;

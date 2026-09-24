@@ -1,4 +1,4 @@
-package Praktikum03;
+package Enkapsulasi;
 
 public class Motor {
     private String platNomor;
